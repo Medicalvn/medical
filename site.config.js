@@ -3,22 +3,22 @@ const CONFIG = {
   profile: {
     name: "Medical Share",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "Dr ICU",
+    bio: "Chia sẻ kiến thức y khoa",
+    email: "medicalvn@duck.com",
+    linkedin: "",
+    github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Medical Share`,
+      href: "https://www.tiktok.com/@dr_icu",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "Medical Share",
     description: "welcome to Medical Share!",
   },
 
